@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Stathis Nikitas from Greece. I love to do H/W design on FPGA or programming embedded system with C, VHDL . My interests are in programming languages (mostly C, Python).
+* I’m Stathis Nikitas from Greece. I love to do H/W design on FPGA or programming embedded system with C, VHDL . My interests are in programming languages (mostly C, Python).
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evstniki)](https://github.com/anuraghazra/github-readme-stats)
