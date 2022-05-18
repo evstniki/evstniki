@@ -4,7 +4,8 @@
 My interests are in programming languages (mostly C, Python).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evstniki)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evstniki)](https://github.com/anuraghazra/github-readme-stats) ---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evstniki&show_icons=true&theme=radical)
 
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
